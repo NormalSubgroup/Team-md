@@ -2,6 +2,11 @@
 
 > 赛题文档的 markdown 格式
 
+## Preview
+
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/d149a22c-ed5a-408b-955e-e186e5935256" />
+
+
 # 第十届(2025年)全国高校密码数学挑战赛之赛题二
 
 ## 一、赛题名称：RLWE和MLWE问题的求解
